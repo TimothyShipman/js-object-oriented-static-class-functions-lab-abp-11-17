@@ -12,8 +12,9 @@ class Question{
     this.constructor._All.push(this);
   }
   static Find(id){
-    return this.All()id2
+    return this.All()
   }
 }
 
 Question._All = []
+Find(2)
